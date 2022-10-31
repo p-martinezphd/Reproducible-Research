@@ -1,8 +1,10 @@
 ---
 title: "Reproducible_Research_Assingment_1"
-output: html_document
+author: "Paul M."
 date: '2022-10-31'
-author: 'Paul M.'
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 
